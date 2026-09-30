@@ -1,0 +1,4 @@
+Q1. Find the number of employees in each department.
+SELECT DEPTNO, COUNT(*)
+FROM EMP
+GROUP BY DEPTNO;
