@@ -1,0 +1,4 @@
+Q: Find employees whose salary is greater than 50,000.
+SELECT *
+FROM employees
+WHERE salary > 50000;
